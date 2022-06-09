@@ -22,7 +22,6 @@ plt.show()
 
 # create memes
 cv2.putText(img, 'THANOS MEME', (450, 100), cv2.FONT_HERSHEY_COMPLEX, 2, (0, 0, 0), 20)
-cv2.putText(img, 'THANOS MEME', (450, 100), cv2.FONT_HERSHEY_COMPLEX, 1, (255, 255, 255), 10)
 cv2.putText(img, 'IMPOSSIBLE', (200, 500), cv2.FONT_HERSHEY_TRIPLEX, 2, (255, 255, 255), 3)
 
 
