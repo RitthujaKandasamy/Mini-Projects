@@ -2,7 +2,7 @@
 
 This project contains all about cv2 functions with some codes.
 
-### Installation
+### *Installation*
 
 Please see the appropriate guide for your environment of choice:
 
