@@ -10,7 +10,7 @@ print(type(qr_img))
 
 
 # plot the image
-plt.figure(figsize = (12, 8))
+plt.figure(figsize = (10, 8))
 plt.title("QR-Code")
 plt.imshow(qr_img)
 plt.show()
