@@ -27,6 +27,11 @@ To detect Qr-Code here used cv2.QRCodeDetector() to know the link or data.
 
 ### 4. How to create merge images with Green screen in Opencv
 
-To merge two images 
+To merge two images first resize the image with cv2.resize(), then use mask with cv2.inRange().
+
+
+### 5. How to predict your handwritten digits
+
+
 
  
