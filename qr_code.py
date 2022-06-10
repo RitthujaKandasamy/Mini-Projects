@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 
 qr_img = cv2.imread("image\qr.jpg")
 
+
 # check qr_code is working or not
 print(type(qr_img))
 

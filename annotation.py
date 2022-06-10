@@ -4,7 +4,8 @@ import matplotlib.pyplot as plt
 
 ann_img = cv2.imread("image\dog.jpg")
 
-# check qr_code is working or not
+
+# check image is working or not
 print(type(ann_img))
 
 

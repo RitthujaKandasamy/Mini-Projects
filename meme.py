@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 img = cv2.imread("image\\thanos.jpg")
 
 
-# check qr_code is working or not
+# check image is working or not
 print(type(img))
 
 

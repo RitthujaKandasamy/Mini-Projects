@@ -7,7 +7,7 @@ image = cv2.imread("image\Fotolia_94207102_Subscription_Monthly_M.jpg")
 image2 = cv2.imread("image\\bird.jpg")
 
 
-# check qr_code is working or not
+# check images is working or not
 print(type(image))
 print(type(image2))
 
