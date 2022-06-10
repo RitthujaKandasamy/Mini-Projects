@@ -18,10 +18,7 @@ In this project cv2.rectangle() and cv2.putText() are used to mark the boundarie
 ## 2. How to create Meme
 
 For this project cv2.putText() is used to type text in the image.
-
 ![thanos_meme](https://user-images.githubusercontent.com/99767517/173024209-f13e8500-91a4-4b32-8389-80bbd06a6d1f.png)
-
-
 ## 3. How to create QR-Code
 
 
